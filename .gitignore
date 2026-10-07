@@ -3,3 +3,11 @@ __pycache__/
 .venv/
 venv/
 .env
+
+# Local dataset files - do not upload
+data/*.csv
+data/*.zip
+
+# Python cache files
+__pycache__/
+*.pyc
