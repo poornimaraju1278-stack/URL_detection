@@ -1,3 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Local dataset files - do not upload
+data/*.csv
+data/*.zip
+
+# Python cache files
+__pycache__/
+*.pyc
 # Python
 __pycache__/
 *.pyc
