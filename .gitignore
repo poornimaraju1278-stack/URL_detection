@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Raw dataset
+data/PhiUSIIL_Phishing_URL_Dataset.csv
+
+# Generated dataset
+data/processed_features.csv
